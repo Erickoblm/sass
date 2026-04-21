@@ -1,0 +1,35 @@
+[
+  {
+    "title": "Malok'ila",
+    "description": "Drame familial se déroulant à Antananarivo.",
+    "type": "film",
+    "category": "Drame",
+    "posterUrl": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba",
+    "streamUrl": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+    "streamType": "hls",
+    "year": 2024,
+    "featured": true
+  },
+  {
+    "title": "Tana Detectives",
+    "description": "Série d'action urbaine dans la capitale malgache.",
+    "type": "series",
+    "category": "Action",
+    "posterUrl": "https://images.unsplash.com/photo-1626814026160-2237a95fc5a0",
+    "streamUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+    "streamType": "mp4",
+    "year": 2025,
+    "featured": true
+  },
+  {
+    "title": "Hehy Be",
+    "description": "Comédie malgache moderne pour toute la famille.",
+    "type": "film",
+    "category": "Comédie",
+    "posterUrl": "https://images.unsplash.com/photo-1603190287605-e6ade32fa852",
+    "streamUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+    "streamType": "mp4",
+    "year": 2023,
+    "featured": false
+  }
+]
